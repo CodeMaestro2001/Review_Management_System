@@ -1,0 +1,11 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore client-side build directory
+client/build/
+
+# Ignore server-side build directory
+server/build/
+
+# Ignore environment variables file
+.env
